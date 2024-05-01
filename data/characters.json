@@ -1,0 +1,314 @@
+[
+  {
+    "id": 1,
+    "name": "Ben Tennyson",
+    "species": "Humano",
+    "homeworld": "la Tierra",
+    "abilities": ["Omnitrix transformations", "Hand-to-hand combat"],
+    "image": "./characters/ben10.png"
+  },
+  {
+    "id": 2,
+    "name": "Gwen Tennyson",
+    "species": "Humano",
+    "homeworld": "la Tierra",
+    "abilities": ["Anodite powers", "Mana manipulation"],
+    "image": "./characters/GwenTennyson.webp"
+  },
+  {
+    "id": 3,
+    "name": "Kevin Levin",
+    "species": "Humano mutante(osmosiano)",
+    "homeworld": "la Tierra",
+    "abilities": ["Absorbing powers", "Energy manipulation"],
+    "image": "./characters/KevinLevin.webp"
+  },
+  {
+    "id": 4,
+    "name": "Max Tennyson",
+    "species": "Humano",
+    "homeworld": "la Tierra",
+    "abilities": ["Plumber technology", "Combat experience"],
+    "image": "./characters/MaxTennyson.webp"
+  },
+  {
+    "id": 5,
+    "name": "Fuego",
+    "species": "Pyronita",
+    "homeworld": "Pyros",
+    "abilities": ["Plumber technology", "Combat experience"],
+    "image": "./characters/Fuego.webp"
+  },
+  {
+    "id": 6,
+    "name": "Bestia",
+    "species": "Vulpimancer",
+    "homeworld": "Vulpin",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/Bestia.webp"
+  },
+  {
+    "id": 7,
+    "name": "Diamante",
+    "species": "Petrosapien",
+    "homeworld": "Petropia",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/Diamante.webp"
+  },
+  {
+    "id": 8,
+    "name": "XLR8",
+    "species": "Kinet",
+    "homeworld": "Revonnah",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/XLR8.webp"
+  },
+  {
+    "id": 9,
+    "name": "Materia Gris",
+    "species": "Galvan",
+    "homeworld": "Galvan Prime",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/Materia_Gris.webp"
+  },
+  {
+    "id": 10,
+    "name": "Cuatrobrazos",
+    "species": "Tetramand",
+    "homeworld": "Khoros",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/Cuatrobrazol.webp"
+  },
+  {
+    "id": 11,
+    "name": "Insectoide",
+    "species": "Ledipoterrano",
+    "homeworld": "Ledipoterra",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/Insectoide.webp"
+  },
+  {
+    "id": 12,
+    "name": "Acuático",
+    "species": "Piscciss volann",
+    "homeworld": "Piscciss",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/Acuatico.webp"
+  },
+  {
+    "id": 13,
+    "name": "Ultra-T",
+    "species": "Mecamorfo galvánico",
+    "homeworld": "Galvan B",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/ULTRA T.webp"
+  },
+  {
+    "id": 14,
+    "name": "Fantasmático",
+    "species": "Ectonurita",
+    "homeworld": "Anur Phaetos",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/Fantasmatico.webp"
+  },
+  {
+    "id": 15,
+    "name": "Cannobolt",
+    "species": "Pelarota arburiano",
+    "homeworld": "Arburia",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/Cannonbolt.webp"
+  },
+  {
+    "id": 16,
+    "name": "Wildvine",
+    "species": "Florauna",
+    "homeworld": "Flors Verdance",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/Wildvine.webp"
+  },
+  {
+    "id": 17,
+    "name": "Bitzwolfer",
+    "species": "Loboan",
+    "homeworld": "Luna Lobo",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/Blitzwolfer.webp"
+  },
+  {
+    "id": 18,
+    "name": "Snare-oh",
+    "species": "Thep khufan",
+    "homeworld": "Anur Khufos",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/Momia.webp"
+  },
+  {
+    "id": 19,
+    "name": "Frankentrueno",
+    "species": "Transylian",
+    "homeworld": "Anur Transyl",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/Frankentrueno.webp"
+  },
+  {
+    "id": 20,
+    "name": "Upchuck",
+    "species": "Gourmand",
+    "homeworld": "Peptos XI",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/Upchuck.webp"
+  },
+  {
+    "id": 21,
+    "name": "Ditto",
+    "species": "Splixson",
+    "homeworld": "Hathor",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/Ditto.webp"
+  },
+  {
+    "id": 22,
+    "name": "Muy Grande",
+    "species": "To'kustar",
+    "homeworld": "Tormenta cósmica",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/Muy_Grande.webp"
+  },
+  {
+    "id": 23,
+    "name": "Multi Ojos",
+    "species": "Opticoid",
+    "homeworld": "Sightra",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/Multi_Ojos.webp"
+  },
+  {
+    "id": 24,
+    "name": "Vilgax",
+    "species": "Chimera sui géneris",
+    "homeworld": "Vilgaxia",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/Vilgax.webp"
+  },
+  {
+    "id": 25,
+    "name": "Dr.Animo",
+    "species": "Humano",
+    "homeworld": "la Tierra",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/Doctor_Animo.webp"
+  },
+  {
+    "id": 26,
+    "name": "Kraab",
+    "species": "Pisccis Preman",
+    "homeworld": "Piscciss",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/Kraab.webp"
+  },
+  {
+    "id": 27,
+    "name": "Seiseis",
+    "species": "Sotoraggian",
+    "homeworld": "Desconocido",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/SixSix.webp"
+  },
+  {
+    "id": 28,
+    "name": "Rojo",
+    "species": "Humano",
+    "homeworld": "la Tierra",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/Rojo.webp"
+  },
+  {
+    "id": 29,
+    "name": "Zombozo",
+    "species": "Zombie",
+    "homeworld": "Revonnah",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/Zombozo.webp"
+  },
+  {
+    "id": 30,
+    "name": "Hex",
+    "species": "Humano(de Yahwahtacsip)",
+    "homeworld": "la Tierra",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/Hex.webp"
+  },
+  {
+    "id": 31,
+    "name": "Slix Vigma",
+    "species": "Androide pensante",
+    "homeworld": "Crucero espacial",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/Slix_Vigma.webp"
+  },
+  {
+    "id": 32,
+    "name": "Vulkanus",
+    "species": "Detrovite",
+    "homeworld": "Vulcan",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/Vulkanus.webp"
+  },
+  {
+    "id": 33,
+    "name": "Charmcaster",
+    "species": "Humano",
+    "homeworld": "la Tierra",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/Charmcaster.webp"
+  },
+  {
+    "id": 34,
+    "name": "Viktor",
+    "species": "Transylian",
+    "homeworld": "Anur Transyl",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/Dr._Viktor.webp"
+  },
+  {
+    "id": 35,
+    "name": "La Momia",
+    "species": "Anur Khufos",
+    "homeworld": "Crucero espacial",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/LaMomia.webp"
+  },
+  {
+    "id": 36,
+    "name": "Yenaldooshi",
+    "species": "Loboan",
+    "homeworld": "Luna Lobo",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/Yenaldooshi.webp"
+  },
+  {
+    "id": 37,
+    "name": "Kane North",
+    "species": "Humano",
+    "homeworld": "la Tierra",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/KaneNorth.webp"
+  },
+  {
+    "id": 38,
+    "name": "Driscoll",
+    "species": "Humano",
+    "homeworld": "la Tierra",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/Driscoll.webp"
+  },
+  {
+    "id": 39,
+    "name": "Enoch",
+    "species": "Humano",
+    "homeworld": "la Tierra",
+    "abilities": ["Plumber training", "Combat skills"],
+    "image": "./characters/Enoch.webp"
+  }
+]

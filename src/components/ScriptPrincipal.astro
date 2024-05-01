@@ -1,0 +1,15 @@
+<script type="module">
+fetch('./data/characters.json')
+  .then(response => response.json())
+  .then(characters => {
+    const html = characters.map(character => `
+    <article class="w-[300px] h-[450px] m-5 border-4 border-green-500 border-radius-2 rounded-lg transition hover:scale-105">
+        <img class="w-[270px] h-[300px] object-contain m-3" src="${character.image}" alt="${character.name}">
+        <h3 class="text-xl text-center font-bold text-white p-2">${character.name}</h3>
+        <p class="text-lg text-center p-2"> ${character.species} de ${character.homeworld} </p>
+        <!--<p class="text-lg p-2"> Habilidades: ${character.abilities}</p>-->
+    </article>
+    `).join('');
+    document.querySelector('#principal').innerHTML = html;
+  });
+</script>
