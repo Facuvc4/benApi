@@ -8,7 +8,7 @@ const PORT = process.env.PORT ?? 1234;
 app.use(express.json());
 
 app.use('/', express.static('dist/client/'));
-app.get('./data/characters.json', (req, res) => {
+app.get('/data/characters.json', (req, res) => {
     res.json(characters)
 });
 
