@@ -2,6 +2,7 @@
   {
     "id": 1,
     "name": "Ben Tennyson",
+    "type": "Heroe",
     "species": "Humano",
     "homeworld": "la Tierra",
     "abilities": ["Omnitrix transformations", "Hand-to-hand combat"],
@@ -10,6 +11,7 @@
   {
     "id": 2,
     "name": "Gwen Tennyson",
+    "type": "Heroe",
     "species": "Humano",
     "homeworld": "la Tierra",
     "abilities": ["Anodite powers", "Mana manipulation"],
@@ -18,6 +20,7 @@
   {
     "id": 3,
     "name": "Kevin Levin",
+    "type": "Villano",
     "species": "Humano mutante(osmosiano)",
     "homeworld": "la Tierra",
     "abilities": ["Absorbing powers", "Energy manipulation"],
@@ -26,6 +29,7 @@
   {
     "id": 4,
     "name": "Max Tennyson",
+    "type": "Heroe",
     "species": "Humano",
     "homeworld": "la Tierra",
     "abilities": ["Plumber technology", "Combat experience"],
@@ -34,6 +38,7 @@
   {
     "id": 5,
     "name": "Fuego",
+    "type": "Alien",
     "species": "Pyronita",
     "homeworld": "Pyros",
     "abilities": ["Plumber technology", "Combat experience"],
@@ -42,6 +47,7 @@
   {
     "id": 6,
     "name": "Bestia",
+    "type": "Alien",
     "species": "Vulpimancer",
     "homeworld": "Vulpin",
     "abilities": ["Plumber training", "Combat skills"],
@@ -50,6 +56,7 @@
   {
     "id": 7,
     "name": "Diamante",
+    "type": "Alien",
     "species": "Petrosapien",
     "homeworld": "Petropia",
     "abilities": ["Plumber training", "Combat skills"],
@@ -58,6 +65,7 @@
   {
     "id": 8,
     "name": "XLR8",
+    "type": "Alien",
     "species": "Kinet",
     "homeworld": "Revonnah",
     "abilities": ["Plumber training", "Combat skills"],
@@ -66,6 +74,7 @@
   {
     "id": 9,
     "name": "Materia Gris",
+    "type": "Alien",
     "species": "Galvan",
     "homeworld": "Galvan Prime",
     "abilities": ["Plumber training", "Combat skills"],
@@ -74,6 +83,7 @@
   {
     "id": 10,
     "name": "Cuatrobrazos",
+    "type": "Alien",
     "species": "Tetramand",
     "homeworld": "Khoros",
     "abilities": ["Plumber training", "Combat skills"],
@@ -82,6 +92,7 @@
   {
     "id": 11,
     "name": "Insectoide",
+    "type": "Alien",
     "species": "Ledipoterrano",
     "homeworld": "Ledipoterra",
     "abilities": ["Plumber training", "Combat skills"],
@@ -90,6 +101,7 @@
   {
     "id": 12,
     "name": "Acuático",
+    "type": "Alien",
     "species": "Piscciss volann",
     "homeworld": "Piscciss",
     "abilities": ["Plumber training", "Combat skills"],
@@ -98,6 +110,7 @@
   {
     "id": 13,
     "name": "Ultra-T",
+    "type": "Alien",
     "species": "Mecamorfo galvánico",
     "homeworld": "Galvan B",
     "abilities": ["Plumber training", "Combat skills"],
@@ -106,6 +119,7 @@
   {
     "id": 14,
     "name": "Fantasmático",
+    "type": "Alien",
     "species": "Ectonurita",
     "homeworld": "Anur Phaetos",
     "abilities": ["Plumber training", "Combat skills"],
@@ -114,6 +128,7 @@
   {
     "id": 15,
     "name": "Cannobolt",
+    "type": "Alien",
     "species": "Pelarota arburiano",
     "homeworld": "Arburia",
     "abilities": ["Plumber training", "Combat skills"],
@@ -122,6 +137,7 @@
   {
     "id": 16,
     "name": "Wildvine",
+    "type": "Alien",
     "species": "Florauna",
     "homeworld": "Flors Verdance",
     "abilities": ["Plumber training", "Combat skills"],
@@ -130,6 +146,7 @@
   {
     "id": 17,
     "name": "Bitzwolfer",
+    "type": "Alien",
     "species": "Loboan",
     "homeworld": "Luna Lobo",
     "abilities": ["Plumber training", "Combat skills"],
@@ -138,6 +155,7 @@
   {
     "id": 18,
     "name": "Snare-oh",
+    "type": "Alien",
     "species": "Thep khufan",
     "homeworld": "Anur Khufos",
     "abilities": ["Plumber training", "Combat skills"],
@@ -146,6 +164,7 @@
   {
     "id": 19,
     "name": "Frankentrueno",
+    "type": "Alien",
     "species": "Transylian",
     "homeworld": "Anur Transyl",
     "abilities": ["Plumber training", "Combat skills"],
@@ -154,6 +173,7 @@
   {
     "id": 20,
     "name": "Upchuck",
+    "type": "Alien",
     "species": "Gourmand",
     "homeworld": "Peptos XI",
     "abilities": ["Plumber training", "Combat skills"],
@@ -162,6 +182,7 @@
   {
     "id": 21,
     "name": "Ditto",
+    "type": "Alien",
     "species": "Splixson",
     "homeworld": "Hathor",
     "abilities": ["Plumber training", "Combat skills"],
@@ -170,6 +191,7 @@
   {
     "id": 22,
     "name": "Muy Grande",
+    "type": "Alien",
     "species": "To'kustar",
     "homeworld": "Tormenta cósmica",
     "abilities": ["Plumber training", "Combat skills"],
@@ -178,6 +200,7 @@
   {
     "id": 23,
     "name": "Multi Ojos",
+    "type": "Alien",
     "species": "Opticoid",
     "homeworld": "Sightra",
     "abilities": ["Plumber training", "Combat skills"],
@@ -186,6 +209,7 @@
   {
     "id": 24,
     "name": "Vilgax",
+    "type": "Villano",
     "species": "Chimera sui géneris",
     "homeworld": "Vilgaxia",
     "abilities": ["Plumber training", "Combat skills"],
@@ -194,6 +218,7 @@
   {
     "id": 25,
     "name": "Dr.Animo",
+    "type": "Villano",
     "species": "Humano",
     "homeworld": "la Tierra",
     "abilities": ["Plumber training", "Combat skills"],
@@ -202,6 +227,7 @@
   {
     "id": 26,
     "name": "Kraab",
+    "type": "Villano",
     "species": "Pisccis Preman",
     "homeworld": "Piscciss",
     "abilities": ["Plumber training", "Combat skills"],
@@ -210,6 +236,7 @@
   {
     "id": 27,
     "name": "Seiseis",
+    "type": "Villano",
     "species": "Sotoraggian",
     "homeworld": "Desconocido",
     "abilities": ["Plumber training", "Combat skills"],
@@ -218,6 +245,7 @@
   {
     "id": 28,
     "name": "Rojo",
+    "type": "Villano",
     "species": "Humano",
     "homeworld": "la Tierra",
     "abilities": ["Plumber training", "Combat skills"],
@@ -226,6 +254,7 @@
   {
     "id": 29,
     "name": "Zombozo",
+    "type": "Villano",
     "species": "Zombie",
     "homeworld": "Revonnah",
     "abilities": ["Plumber training", "Combat skills"],
@@ -234,6 +263,7 @@
   {
     "id": 30,
     "name": "Hex",
+    "type": "Villano",
     "species": "Humano(de Yahwahtacsip)",
     "homeworld": "la Tierra",
     "abilities": ["Plumber training", "Combat skills"],
@@ -242,6 +272,7 @@
   {
     "id": 31,
     "name": "Slix Vigma",
+    "type": "Villano",
     "species": "Androide pensante",
     "homeworld": "Crucero espacial",
     "abilities": ["Plumber training", "Combat skills"],
@@ -250,6 +281,7 @@
   {
     "id": 32,
     "name": "Vulkanus",
+    "type": "Villano",
     "species": "Detrovite",
     "homeworld": "Vulcan",
     "abilities": ["Plumber training", "Combat skills"],
@@ -258,6 +290,7 @@
   {
     "id": 33,
     "name": "Charmcaster",
+    "type": "Villano",
     "species": "Humano",
     "homeworld": "la Tierra",
     "abilities": ["Plumber training", "Combat skills"],
@@ -266,6 +299,7 @@
   {
     "id": 34,
     "name": "Viktor",
+    "type": "Villano",
     "species": "Transylian",
     "homeworld": "Anur Transyl",
     "abilities": ["Plumber training", "Combat skills"],
@@ -274,6 +308,7 @@
   {
     "id": 35,
     "name": "La Momia",
+    "type": "Villano",
     "species": "Anur Khufos",
     "homeworld": "Crucero espacial",
     "abilities": ["Plumber training", "Combat skills"],
@@ -282,6 +317,7 @@
   {
     "id": 36,
     "name": "Yenaldooshi",
+    "type": "Villano",
     "species": "Loboan",
     "homeworld": "Luna Lobo",
     "abilities": ["Plumber training", "Combat skills"],
@@ -290,6 +326,7 @@
   {
     "id": 37,
     "name": "Kane North",
+    "type": "Villano",
     "species": "Humano",
     "homeworld": "la Tierra",
     "abilities": ["Plumber training", "Combat skills"],
@@ -298,6 +335,7 @@
   {
     "id": 38,
     "name": "Driscoll",
+    "type": "Villano",
     "species": "Humano",
     "homeworld": "la Tierra",
     "abilities": ["Plumber training", "Combat skills"],
@@ -306,6 +344,7 @@
   {
     "id": 39,
     "name": "Enoch",
+    "type": "Villano",
     "species": "Humano",
     "homeworld": "la Tierra",
     "abilities": ["Plumber training", "Combat skills"],
