@@ -1,6 +1,6 @@
 import express from 'express';
 import { handler as ssrHandler } from './dist/server/entry.mjs';
-import characters from './data/characters.json';
+import characters from './data/characters.json' assert { type: 'json' };
 
 const app = express();
 const PORT = process.env.PORT ?? 1234;
