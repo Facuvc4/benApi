@@ -2,7 +2,9 @@
     window.addEventListener('load', function() {
       const loader = document.querySelector('#loader');
       const main = document.querySelector('#main');
-      loader.style.display = 'none';
-      main.style.display = 'flex'
+      setTimeout(function() {
+            loader.style.display = 'none';
+            main.style.display = 'flex';
+        },4000)
     });
 </script>
