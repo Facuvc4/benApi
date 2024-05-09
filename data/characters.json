@@ -5,7 +5,6 @@
     "type": "Heroe",
     "species": "Humano",
     "homeworld": "la Tierra",
-    "abilities": ["Omnitrix transformations", "Hand-to-hand combat"],
     "image": "./characters/ben10.png"
   },
   {
@@ -14,7 +13,6 @@
     "type": "Heroe",
     "species": "Humano",
     "homeworld": "la Tierra",
-    "abilities": ["Anodite powers", "Mana manipulation"],
     "image": "./characters/GwenTennyson.webp"
   },
   {
@@ -23,7 +21,6 @@
     "type": "Villano",
     "species": "Humano mutante(osmosiano)",
     "homeworld": "la Tierra",
-    "abilities": ["Absorbing powers", "Energy manipulation"],
     "image": "./characters/KevinLevin.webp"
   },
   {
@@ -32,7 +29,6 @@
     "type": "Heroe",
     "species": "Humano",
     "homeworld": "la Tierra",
-    "abilities": ["Plumber technology", "Combat experience"],
     "image": "./characters/MaxTennyson.webp"
   },
   {
@@ -41,7 +37,6 @@
     "type": "Alien",
     "species": "Pyronita",
     "homeworld": "Pyros",
-    "abilities": ["Plumber technology", "Combat experience"],
     "image": "./characters/Fuego.webp"
   },
   {
@@ -50,7 +45,6 @@
     "type": "Alien",
     "species": "Vulpimancer",
     "homeworld": "Vulpin",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/Bestia.webp"
   },
   {
@@ -59,7 +53,6 @@
     "type": "Alien",
     "species": "Petrosapien",
     "homeworld": "Petropia",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/Diamante.webp"
   },
   {
@@ -68,7 +61,6 @@
     "type": "Alien",
     "species": "Kinet",
     "homeworld": "Revonnah",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/XLR8.webp"
   },
   {
@@ -77,7 +69,6 @@
     "type": "Alien",
     "species": "Galvan",
     "homeworld": "Galvan Prime",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/Materia_Gris.webp"
   },
   {
@@ -86,7 +77,6 @@
     "type": "Alien",
     "species": "Tetramand",
     "homeworld": "Khoros",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/Cuatrobrazol.webp"
   },
   {
@@ -95,7 +85,6 @@
     "type": "Alien",
     "species": "Ledipoterrano",
     "homeworld": "Ledipoterra",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/Insectoide.webp"
   },
   {
@@ -104,7 +93,6 @@
     "type": "Alien",
     "species": "Piscciss volann",
     "homeworld": "Piscciss",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/Acuatico.webp"
   },
   {
@@ -113,7 +101,6 @@
     "type": "Alien",
     "species": "Mecamorfo galvánico",
     "homeworld": "Galvan B",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/ULTRA T.webp"
   },
   {
@@ -122,7 +109,6 @@
     "type": "Alien",
     "species": "Ectonurita",
     "homeworld": "Anur Phaetos",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/Fantasmatico.webp"
   },
   {
@@ -131,7 +117,6 @@
     "type": "Alien",
     "species": "Pelarota arburiano",
     "homeworld": "Arburia",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/Cannonbolt.webp"
   },
   {
@@ -140,7 +125,6 @@
     "type": "Alien",
     "species": "Florauna",
     "homeworld": "Flors Verdance",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/Wildvine.webp"
   },
   {
@@ -149,7 +133,6 @@
     "type": "Alien",
     "species": "Loboan",
     "homeworld": "Luna Lobo",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/Blitzwolfer.webp"
   },
   {
@@ -158,7 +141,6 @@
     "type": "Alien",
     "species": "Thep khufan",
     "homeworld": "Anur Khufos",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/Momia.webp"
   },
   {
@@ -167,7 +149,6 @@
     "type": "Alien",
     "species": "Transylian",
     "homeworld": "Anur Transyl",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/Frankentrueno.webp"
   },
   {
@@ -176,7 +157,6 @@
     "type": "Alien",
     "species": "Gourmand",
     "homeworld": "Peptos XI",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/Upchuck.webp"
   },
   {
@@ -185,7 +165,6 @@
     "type": "Alien",
     "species": "Splixson",
     "homeworld": "Hathor",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/Ditto.webp"
   },
   {
@@ -194,7 +173,6 @@
     "type": "Alien",
     "species": "To'kustar",
     "homeworld": "Tormenta cósmica",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/Muy_Grande.webp"
   },
   {
@@ -203,7 +181,6 @@
     "type": "Alien",
     "species": "Opticoid",
     "homeworld": "Sightra",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/Multi_Ojos.webp"
   },
   {
@@ -212,7 +189,6 @@
     "type": "Villano",
     "species": "Chimera sui géneris",
     "homeworld": "Vilgaxia",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/Vilgax.webp"
   },
   {
@@ -221,7 +197,6 @@
     "type": "Villano",
     "species": "Humano",
     "homeworld": "la Tierra",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/Doctor_Animo.webp"
   },
   {
@@ -230,7 +205,6 @@
     "type": "Villano",
     "species": "Pisccis Preman",
     "homeworld": "Piscciss",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/Kraab.webp"
   },
   {
@@ -239,7 +213,6 @@
     "type": "Villano",
     "species": "Sotoraggian",
     "homeworld": "Desconocido",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/SixSix.webp"
   },
   {
@@ -248,7 +221,6 @@
     "type": "Villano",
     "species": "Humano",
     "homeworld": "la Tierra",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/Rojo.webp"
   },
   {
@@ -257,7 +229,6 @@
     "type": "Villano",
     "species": "Zombie",
     "homeworld": "Revonnah",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/Zombozo.webp"
   },
   {
@@ -266,7 +237,6 @@
     "type": "Villano",
     "species": "Humano(de Yahwahtacsip)",
     "homeworld": "la Tierra",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/Hex.webp"
   },
   {
@@ -275,7 +245,6 @@
     "type": "Villano",
     "species": "Androide pensante",
     "homeworld": "Crucero espacial",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/Slix_Vigma.webp"
   },
   {
@@ -284,7 +253,6 @@
     "type": "Villano",
     "species": "Detrovite",
     "homeworld": "Vulcan",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/Vulkanus.webp"
   },
   {
@@ -293,7 +261,6 @@
     "type": "Villano",
     "species": "Humano",
     "homeworld": "la Tierra",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/Charmcaster.webp"
   },
   {
@@ -302,7 +269,6 @@
     "type": "Villano",
     "species": "Transylian",
     "homeworld": "Anur Transyl",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/Dr._Viktor.webp"
   },
   {
@@ -311,7 +277,6 @@
     "type": "Villano",
     "species": "Anur Khufos",
     "homeworld": "Crucero espacial",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/LaMomia.webp"
   },
   {
@@ -320,7 +285,6 @@
     "type": "Villano",
     "species": "Loboan",
     "homeworld": "Luna Lobo",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/Yenaldooshi.webp"
   },
   {
@@ -329,7 +293,6 @@
     "type": "Villano",
     "species": "Humano",
     "homeworld": "la Tierra",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/KaneNorth.webp"
   },
   {
@@ -338,7 +301,6 @@
     "type": "Villano",
     "species": "Humano",
     "homeworld": "la Tierra",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/Driscoll.webp"
   },
   {
@@ -347,7 +309,6 @@
     "type": "Villano",
     "species": "Humano",
     "homeworld": "la Tierra",
-    "abilities": ["Plumber training", "Combat skills"],
     "image": "./characters/Enoch.webp"
   }
 ]
